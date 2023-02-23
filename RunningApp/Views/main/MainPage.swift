@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+//
 struct MainPage: View {
     var linearColor = LinearGradient(gradient: Gradient(colors: [Color("bg_top"), Color("bg_bottom")]), startPoint: .topLeading, endPoint: .bottomTrailing)
     
